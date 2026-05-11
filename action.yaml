@@ -1,4 +1,4 @@
-name: 'Deploy to Hostinger'
+name: 'Deploy to Hostinger - SSH'
 description: 'Deploy your website to Hostinger using GitHub Actions.'
 author: Pedro de Mattos Mariano Mendes Neto
 inputs:
