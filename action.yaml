@@ -1,6 +1,9 @@
 name: 'Deploy to Hostinger - SSH'
 description: 'Deploy your website to Hostinger using GitHub Actions.'
 author: Pedro de Mattos Mariano Mendes Neto
+branding:
+  icon: 'upload-cloud'
+  color: 'purple'
 inputs:
   ssh-private-key:
     description: 'SSH private key for authentication'
